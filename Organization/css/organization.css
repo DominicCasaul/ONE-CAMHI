@@ -1,0 +1,16 @@
+.Post-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+
+
+
+#the-count {
+    float: right;
+    padding: 0.1rem 0 0 0;
+    font-size: 0.875rem;
+    
+  }
+  

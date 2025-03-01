@@ -1,0 +1,26 @@
+#img{
+    max-width: 100%;
+    height: auto;
+    width: auto;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    #fullImage {
+      max-width: 90%;
+    }
+  }
+.content {
+  flex: 1;
+}
+
+.pinakataas{
+     /* height:100%; */
+    background: linear-gradient(rgb(0, 0, 0, 0.5), rgba(245, 245, 255, 0.5)), url(../home/image/csnhs.png);
+    background-size: cover;
+    align-items: center;
+    text-align: center;
+}
+
+p{
+    margin-top: 0;
+}
